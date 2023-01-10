@@ -4,9 +4,9 @@ body {
 span.Akademia {
     color: #ff0000;
 }
-p1 {
+p:nth-of-type(1) {
     color: #a42423;
 }
-p2 {
+p:nth-of-type(2) {
     color: #00008f;
 }
